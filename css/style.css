@@ -31,9 +31,28 @@ body {
 .navbar-nav .nav-link.active {
 	color: #5a20cb;
 }
+/* header area */
+.hero-carousel img{
+    filter: brightness(50%);
+}
+.hero-carousel .carousel-caption{
+    top: 40%;
+}
+.hero-carousel .carousel-caption h5{
+font-style: normal;
+font-weight: 600;
+font-size: 65px;
+line-height: 85px;
+/* or 131% */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
 /* footer */
 
-.fo-ttile h3 {
+.fo-title h3 {
 	font-style: normal;
 	font-weight: 600;
 	font-size: 40px;
