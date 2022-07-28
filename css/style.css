@@ -103,9 +103,23 @@ color: #777777;
 	background: #F4FAFD;
 }
 
-
-
-
+/* Feedback area */
+.carousel-feedback .carousel-control-next{
+right: 15%;
+top:-200px;
+background: #E6F6FF;
+width: 40px;
+border-radius: 25px;
+height: 40px;
+}
+.carousel-feedback .carousel-control-prev{
+	left: 15%;
+    top: -200px;
+    background: #E6F6FF;
+    width: 40px;
+    border-radius: 25px;
+    height: 40px;
+	}
 /* footer */
 
 .fo-title h3 {
