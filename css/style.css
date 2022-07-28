@@ -120,6 +120,19 @@ height: 40px;
     border-radius: 25px;
     height: 40px;
 	}
+		/* faq section  */
+.accordion-button{
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+color: #4A4A4A;
+}
+.accordion-body{
+	font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+color: #777777;
+}
 /* footer */
 
 .fo-title h3 {
