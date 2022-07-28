@@ -156,6 +156,22 @@ height: 40px;
 		font-size: 30px;
 		line-height: 45px;
 	}
+	.ex-elearning-area .section-info p {
+		font-weight: 400;
+        font-size: 12px;
+        line-height: 18px;
+        height: 3em;
+        overflow: hidden;
+		text-overflow: ellipsis;
+	}
+	.carousel-feedback .carousel-control-prev {
+		left: 0%;
+		top: -335px;
+	}
+	.carousel-feedback .carousel-control-next {
+		right: 0%;
+		top: -335px;
+	}
 }
 @media (max-width: 767.98px) {
     .hero-carousel .carousel-caption {
@@ -166,7 +182,7 @@ height: 40px;
     .hero-carousel .carousel-caption h5 {
 		font-weight: 600;
 		font-size: 20px;
-		line-height: 50px;
+		line-height: 20px;
 	} 
     .hero-carousel .carousel-caption p {
         font-weight: 400;
@@ -174,6 +190,7 @@ height: 40px;
         line-height: 18px;
         height: 3em;
         overflow: hidden;
+		
     }
 	.img-md-fluid{
 		max-width: 100%;
